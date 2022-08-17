@@ -20,9 +20,9 @@ public class My_1st_class {
 	   
 	  // driver.get("https://www.mphasis.com/home.html");
 	   
-	  //driver.get("https://pmc.gov.in/mr"); 
+	  driver.get("https://pmc.gov.in/mr");   //PMC site
 
-	   driver.get("https://www.kpit.com/");
+	   //driver.get("https://www.kpit.com/");
 	  
 	  Thread.sleep(5000);
 	  
